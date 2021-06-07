@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_padding">16dp</dimen>
+    <dimen name="app_margins">16dp</dimen>
+    <dimen name="app_toolbar_elevation">0dp</dimen>
+    <dimen name="app_progress_max">30</dimen>
+    <dimen name="text_size_big">40sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="progress_height">250dp</dimen>
+    <dimen name="progress_width">250dp</dimen>
+    <dimen name="corner_radius_value">16dp</dimen>
+    <dimen name="timer_track_width">8dp</dimen>
+</resources>

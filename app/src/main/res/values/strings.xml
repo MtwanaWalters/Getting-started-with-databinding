@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Timer</string>
+
+    <!-- Menu string values -->
+    <string name="action_settings">Settings</string>
+
+    <!-- count down timer default text-->
+    <string name="default_timer_text">00:00:30</string>
+    <string name="empty_timer_text">00:00:00</string>
+
+    <!-- Button text -->
+    <string name="reset_timer">Reset</string>
+    <string name="add_timer">Add timer</string>
+    <string name="start_timer">Start</string>
+    <string name="pause_timer">Pause</string>
+    <string name="timer_option">Minutes</string>
+
+    <!-- Content description -->
+    <string name="fab_desc">Floating action button</string>
+</resources>
